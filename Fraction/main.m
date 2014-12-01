@@ -1,3 +1,5 @@
+//Here i would like to know the diff between instace method & class method
+
 #import <Foundation/Foundation.h>
 //--------@interface section--------
 @interface Fraction: NSObject
