@@ -30,10 +30,10 @@ int main(int args, const char * argv[])
     @autoreleasepool{
         Fraction *myFraction1=[[Fraction alloc] init ];
         Fraction *myFraction2=[[Fraction alloc] init ];
-        [myFraction1 setNumerator:8];
-        [myFraction1 setDenominator:4];
-        [myFraction2 setNumerator:10];
-        [myFraction2 setDenominator:5];
+        [myFraction1 setNumerator:4];
+        [myFraction1 setDenominator:2];
+        [myFraction2 setNumerator:6];
+        [myFraction2 setDenominator:2];
         NSLog(@"the first fraction result is:");
         [myFraction1 print];
         NSLog(@"the second fraction result is:");
