@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>27973CC1-65A4-43B8-A118-B6474DC76581</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Fraction</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8D551D19A32C27560B902A006A08CDE6567569ED</key>
+		<string>https://github.com/parmjitkhattra/Fraction.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Fraction.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8D551D19A32C27560B902A006A08CDE6567569ED</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/parmjitkhattra/Fraction.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8D551D19A32C27560B902A006A08CDE6567569ED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8D551D19A32C27560B902A006A08CDE6567569ED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Fraction</string>
+		</dict>
+	</array>
+</dict>
+</plist>
